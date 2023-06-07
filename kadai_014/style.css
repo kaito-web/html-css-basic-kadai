@@ -1,0 +1,54 @@
+body {
+    font: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+h1 > .m_text{
+    color: skyblue;
+}
+h1 > .p_text{
+    color: rgb(255, 192, 203);
+}
+h1, p > .p_text, p > .m_text{ 
+    margin: 0;
+
+}
+h1{
+    font-family: "Josefin Sans";
+    font-size: 40px;
+    letter-spacing: 1.2em;
+    border-bottom: 1px black solid;
+}
+
+.name{
+    color: rgb(255, 192, 203);
+    font-size: 20px;
+}
+
+.birth{
+    color: skyblue;
+    font-size: 20px;
+}
+
+.blood_type{
+    color: rgb(255, 192, 203);
+    font-size: 20px;
+}
+
+.hobby{
+    color: skyblue;
+    font-size: 20px;
+}
+
+.favarite_food{
+    color: rgb(255, 192, 203);
+    font-size: 20px;
+}
+
+.start{
+    color: skyblue;
+    font-size: 20px;
+}
+
+.thick{
+    font-weight: bold;
+}
